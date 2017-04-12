@@ -1,2 +1,2 @@
-Please go to gh-pages.
+testing page.
 
