@@ -1,2 +1,2 @@
-# testpage
-testing site
+Please go to gh-pages.
+
